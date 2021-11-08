@@ -1,0 +1,18 @@
+{
+    "name": "com.akirakido.unity-redux",
+    "displayName": "Unity Redux",
+    "version": "0.1.0",
+    "unity": "2020.3",
+    "description": "",
+    "author": {
+      "name": "Akira Kido",
+      "email": "achts.y@gmail.com"
+    },
+    "samples": [
+        {
+            "displayName": "TodoApp Sample",
+            "description": "A sample app demonstrating what Unity Redux can do.",
+            "path": "Samples~/TodoApp"
+        }
+    ]
+  }
